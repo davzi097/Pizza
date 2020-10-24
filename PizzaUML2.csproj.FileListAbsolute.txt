@@ -1,0 +1,7 @@
+C:\Users\davzi\source\repos\PizzaUML2\PizzaUML2\bin\Debug\PizzaUML2.exe.config
+C:\Users\davzi\source\repos\PizzaUML2\PizzaUML2\bin\Debug\PizzaUML2.exe
+C:\Users\davzi\source\repos\PizzaUML2\PizzaUML2\bin\Debug\PizzaUML2.pdb
+C:\Users\davzi\source\repos\PizzaUML2\PizzaUML2\obj\Debug\PizzaUML2.csprojAssemblyReference.cache
+C:\Users\davzi\source\repos\PizzaUML2\PizzaUML2\obj\Debug\PizzaUML2.csproj.CoreCompileInputs.cache
+C:\Users\davzi\source\repos\PizzaUML2\PizzaUML2\obj\Debug\PizzaUML2.exe
+C:\Users\davzi\source\repos\PizzaUML2\PizzaUML2\obj\Debug\PizzaUML2.pdb
